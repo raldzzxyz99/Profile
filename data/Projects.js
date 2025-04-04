@@ -2,8 +2,8 @@ export const Projects = [
   {
     id: 1,
     name: 'Website RaldzzXyz',
-    slug: 'sgcid',
-    img: 'sgcid',
+    slug: 'coming-soon-project',
+    img: 'coming-soon',
     demo: 'https://raldzzxyz.vercel.app',
     sourceCode: 'https://raldzzxyz.vercel.app',
     description:
@@ -11,13 +11,13 @@ export const Projects = [
   },
   {
     id: 3,
-    name: 'About This Website',
-    slug: 'coming-soon-project',
-    img: 'coming-soon',
+    name: 'Bot WhatsApp Phonix',
+    slug: 'botwa',
+    img: 'botwa',
     demo: '#',
     sourceCode: '#',
     description:
-      'This Website Created For Sharing All Project RaldzzXyz',
+      'This Bot Created By RaldzzXyz',
   },
   {
     id: 3,
