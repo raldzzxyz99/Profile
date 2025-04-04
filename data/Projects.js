@@ -4,8 +4,8 @@ export const Projects = [
     name: 'Website RaldzzXyz',
     slug: 'sgcid',
     img: 'sgcid',
-    demo: 'https://menyala.vercel.app',
-    sourceCode: 'https://menyala.vercel.app',
+    demo: 'https://raldzzxyz.vercel.app',
+    sourceCode: 'https://raldzzxyz.vercel.app',
     description:
       'This Website Created By RaldzzXyz',
   },
