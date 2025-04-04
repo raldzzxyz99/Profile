@@ -1,13 +1,23 @@
 export const Projects = [
   {
     id: 1,
-    name: 'Website Gabut',
+    name: 'Website RaldzzXyz',
     slug: 'sgcid',
     img: 'sgcid',
     demo: 'https://menyala.vercel.app',
     sourceCode: 'https://menyala.vercel.app',
     description:
-      'Sebuah Website Gabut Yang Fi penuhi Kata Kata (quotes) para creator Bot WhatsApp !!',
+      'This Website Created By RaldzzXyz',
+  },
+  {
+    id: 3,
+    name: 'About This Website',
+    slug: 'coming-soon-project',
+    img: 'coming-soon',
+    demo: '#',
+    sourceCode: '#',
+    description:
+      'This Website Created For Sharing All Project RaldzzXyz',
   },
   {
     id: 3,
@@ -17,17 +27,7 @@ export const Projects = [
     demo: '#',
     sourceCode: '#',
     description:
-      'Nantikan project-project mendatang lainnya.',
-  },
-  {
-    id: 3,
-    name: 'Coming Soon Project',
-    slug: 'coming-soon-project',
-    img: 'coming-soon',
-    demo: '#',
-    sourceCode: '#',
-    description:
-      'Nantikan project-project mendatang lainnya.',
+      'Coming Soon For Next Projects',
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ export const Projects = [
     demo: '#',
     sourceCode: '#',
     description:
-      'Nantikan project-project mendatang lainnya.',
+      'Coming Soom For Next Projects',
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ export const Projects = [
     demo: '#',
     sourceCode: '#',
     description:
-      'Nantikan project-project mendatang lainnya.',
+      'Coming Soom For Next Projects',
   },
   {
     id: 6,
@@ -57,6 +57,6 @@ export const Projects = [
     demo: '#',
     sourceCode: '#',
     description:
-      'Nantikan project-project mendatang lainnya.',
+      'Coming Soom For Next Projects',
   },
 ];
